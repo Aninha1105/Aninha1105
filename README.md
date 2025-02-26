@@ -18,16 +18,13 @@ Oi! Me chamo Ana Luísa Paraguassu, tenho 20 anos e sou de Brasília - DF. Atual
 
 
 ### Estatísticas
-<div>
+<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
     <img
-        align ="left"
         alt = "GitHub Stats"
         height = "200"
-        style="padding-right:10px"
         src="https://github-readme-stats.vercel.app/api?username=Aninha1105&show_icons=true&theme=tokyonight"
     />
     <img
-        align ="left"
         alt = "GitHub Stats"
         height = "200"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aninha1105&layout=compact&theme=tokyonight"
