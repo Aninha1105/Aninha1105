@@ -1,4 +1,4 @@
-# Aninha1105
+# anaparaguassu
 
 Oi! Me chamo Ana Luísa Paraguassu, tenho 20 anos e sou de Brasília - DF. Atualmente, estou cursando Ciência da Computação na UnB.
 
